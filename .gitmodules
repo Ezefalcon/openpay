@@ -1,3 +1,6 @@
 [submodule "marvel-service"]
 	path = marvel-service
 	url = https://github.com/Ezefalcon/marvel-service
+[submodule "marvel-api"]
+	path = marvel-api
+	url = https://github.com/Ezefalcon/marvel-api
