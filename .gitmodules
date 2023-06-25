@@ -4,3 +4,6 @@
 [submodule "marvel-api"]
 	path = marvel-api
 	url = https://github.com/Ezefalcon/marvel-api
+[submodule "marvel-ui"]
+	path = marvel-ui
+	url = https://github.com/Ezefalcon/marvel-ui
